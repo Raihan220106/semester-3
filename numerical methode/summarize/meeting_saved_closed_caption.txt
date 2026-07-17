@@ -1,0 +1,1692 @@
+[Cakrawala] 12:42:00
+Nah, dalam matematika itu ada dua pendekatan nah, pendekatan yang udah kalian sering temuin itu udah pasti hai metode analitik.
+
+[Cakrawala] 12:42:15
+Hai metode analitik ini. Metode yang eksak ilmu pastilah satu. Nomor satu, dua.
+
+[Cakrawala] 12:42:26
+Dia Generate Solusi.
+
+[Cakrawala] 12:42:35
+Dari Rumus.
+
+[Cakrawala] 12:42:39
+Ini bisa kita contohin sederhana banget mungkin dari kalian bisa bantu saya.
+
+[Cakrawala] 12:42:47
+X min satu ekol atau dua ada yang bisa bantu gimana penyelesaian analitiknya secara step by stepnya gimana kita kita tahu ini nilai berapa cuma penyelesaian step by step gimana sih biasanya secara analitik.
+
+[Cakrawala] 12:43:07
+Hai semuanya maju seriusan gini gini.
+
+[Cakrawala] 12:43:22
+Silahkan silahkan ini sob.
+
+[Cakrawala] 12:43:31
+Oke benar thank you siapa namanya Mar tolong dicatat ya oke Umar makasih Umar gampang itu dapat nilai nah oke, yang kedua.
+
+[Cakrawala] 12:43:49
+Itu metode apalagi kalau bukan metode numerik kan?
+
+[Cakrawala] 12:43:57
+Metode yang menarik.
+
+[Cakrawala] 12:44:01
+Tampilan.
+
+[Cakrawala] 12:44:04
+Oke dan ini menghasilkan.
+
+[Cakrawala] 12:44:12
+Solusi Pendekatan.
+
+[Cakrawala] 12:44:18
+Maksudnya gimana menghasilkan solusi pendekatan kalau tadi memang mengerjakannya secara analisis secara sistematis. Kita kita tahu bahwa ini ini dua duanya di plus satu yang sebelah kiri di plus satu jadi nol nipis satu jadi tiga x sama dengan tiga nah metode menarik.
+
+[Cakrawala] 12:44:42
+Itu contoh dari dunia x sama dengan satu x Min satu sama dengan Hai, Mbak kita coba deh ada kata Pray.
+
+[Cakrawala] 12:44:57
+Disini saya coba kalau misalkan x sama dengan dua.
+
+[Cakrawala] 12:45:05
+Hai berarti di sini satu terus ini dua dan satu tidak sama dengan dua Hai berarti di sini ada yang namanya error selisih antara nilai yang sebenarnya dengan pemakannya kita lornya satu.
+
+[Cakrawala] 12:45:25
+Oke dadah coba lagi deh.
+
+[Cakrawala] 12:45:31
+Apa jangan jangan.
+
+[Cakrawala] 12:45:34
+Empat kali.
+
+[Cakrawala] 12:45:37
+Kita masuk ke empat tiga tidak sama dengan dua.
+
+[Cakrawala] 12:45:44
+Di sini kita ada yang lagi.
+
+[Cakrawala] 12:45:49
+Hai, oke Dewa. Lagi. Nah sekarang kita coba sekali lagi siapa tahu benar soalnya sulit banget nih, soalnya sekali lagi kita coba.
+
+[Cakrawala] 12:46:02
+Bahwa teks sama dengan lets say dua koma. Delapan.
+
+[Cakrawala] 12:46:11
+Hai sama dengan dua koma. Delapan Hai mati. Di sini.
+
+[Cakrawala] 12:46:21
+Hai jadinya dia dua koma delapan kayak gimana sih gara gara kosong delapan.
+
+[Cakrawala] 12:46:29
+Ini satu koma. Delapan.
+
+[Cakrawala] 12:46:39
+Ini inilah di di sini, kalian lihat bahwa si errornya itu dia makin lama makin kecil dari hasil coba coba gitu.
+
+[Cakrawala] 12:46:53
+Makanya dari hasil coba coba ini itu kita pelan pelan bisa mendapatkan nilai eksak yang kita inginkan yaitu tadi berapa c.
+
+[Cakrawala] 12:47:05
+Tiga supaya sama dengan dua.
+
+[Cakrawala] 12:47:09
+Hai nah, dari sini itu kita coba mendefinisikan metode memerik.
+
+[Cakrawala] 12:47:26
+Nah, metode yang menarik itu adalah sekumpulan.
+
+[Cakrawala] 12:47:35
+Teknik matematika.
+
+[Cakrawala] 12:47:43
+Yang digunakan untuk mencari solusi.
+
+[Cakrawala] 12:47:53
+Tapi solusinya adalah.
+
+[Cakrawala] 12:47:58
+Pendekatan.
+
+[Cakrawala] 12:48:04
+Solusinya pendekatan dari suatu persoalan.
+
+[Cakrawala] 12:48:18
+Jadi sederhananya. Metode metode metode metode yang tadi anggap metode coba coba itu dia Thailand error akhirnya bisa menemukan angka yang kita mau.
+
+[Cakrawala] 12:48:29
+Youtube. Nah.
+
+[Cakrawala] 12:48:35
+Ini metode numerik.
+
+[Cakrawala] 12:48:40
+Disini saya ingin mendefinisikan lagi hal yang lain karena di sini kita sudah ada ini kata exact terus ada kata Tampilan.
+
+[Cakrawala] 12:48:51
+Jadi Nilai Except.
+
+[Cakrawala] 12:48:57
+Next nih yang tadi di save sama teman kalian. Umar Ps tiga yang mana itu adalah Lets say itu adalah solusi yang sebenarnya.
+
+[Cakrawala] 12:49:13
+Dan nilai hampiran.
+
+[Cakrawala] 12:49:18
+Yang mana itu adalah restart itu adalah solusi hai pendekatan lah.
+
+[Cakrawala] 12:49:28
+Okay.
+
+[Cakrawala] 12:49:34
+Selanjutnya kita akan membahas mengenai galog sampai sini ada yang mau ditanyain.
+
+[Cakrawala] 12:49:45
+Boleh boleh untung dia inget saya tidak lupa meminta tolong.
+
+[Cakrawala] 12:49:53
+Nah foto aja.
+
+[Cakrawala] 12:49:57
+Gini aja boleh bagusnya kamu di sore guys, buat fungsi terang bentar.
+
+[Cakrawala] 12:50:06
+Udah dah yuk. Kasih.
+
+[Cakrawala] 12:50:11
+Nah tapi kita udah sempat singgung bahwa ketika kita melakukan trial and error coba coba ketika ketika coba coba ada yang namanya eror error value dan sebenarnya dari error ini kita jadi bisa detekbel secara intutif bahwa ketika erornya makin kecil kita makin sedikit semakin ini ke arah yang benar itulah oleh karena itu kita ingin coba mendefinisikan itu error itu apa
+
+[Cakrawala] 12:50:42
+sih.
+
+[Cakrawala] 12:50:53
+Tombolnya kecepatan aman hahaha. Hahaha.
+
+[Cakrawala] 12:51:03
+Dengan durasi ini kependekan soalnya masih ada sembilan ratus empat puluh lima ntar ini ini ada dua latihan harusnya cukup.
+
+[Cakrawala] 12:51:15
+Pink.
+
+[Cakrawala] 12:51:19
+Kalau di buku namanya Galat sebenarnya saya juga bingung kenapa mereka pakai galak?
+
+[Cakrawala] 12:51:24
+Memang sebelumnya kalian pernah dengar istilah galak. Saya juga kalau enggak baca buku buku metode mereka gitu.
+
+[Cakrawala] 12:51:33
+Enggak tahu Galot namanya namanya.
+
+[Cakrawala] 12:51:38
+Atau eror dalam perhitungan.
+
+[Cakrawala] 12:51:46
+Ada dua tipe galat yang bisa kita konsiderasi.
+
+[Cakrawala] 12:51:53
+Yang pertama galat Absolut.
+
+[Cakrawala] 12:52:03
+Mas yang biru udah mau habis nih. Tolong diin.
+
+[Cakrawala] 12:52:06
+Nah, darat outfit itu adalah selisih.
+
+[Cakrawala] 12:52:14
+Antara.
+
+[Cakrawala] 12:52:17
+Inilah except hai dengan nilai hampiran lestar artinya simpel banget absolut A dengan nik.
+
+[Cakrawala] 12:52:38
+Jadi jadi ini form formula untuk dalet absolute.
+
+[Cakrawala] 12:52:46
+Contoh.
+
+[Cakrawala] 12:52:50
+Kita mengukur temperatur temperatur temperatur eksaknya di ruangan ini lets say exactly exactly tapi.
+
+[Cakrawala] 12:53:05
+Temperatur kalian pakai ngobrol pakai termometer dia ini koma. Nol dua puluh lima koma.
+
+[Cakrawala] 12:53:14
+Dua derajat celcius berarti gala absolutenya sama dengan nol koma.
+
+[Cakrawala] 12:53:21
+Dua derajat celcius.
+
+[Cakrawala] 12:53:23
+Ini Galat Absolut.
+
+[Cakrawala] 12:53:28
+Selanjutnya kita ke galak relatif.
+
+[Cakrawala] 12:53:33
+Hai nah kadang kita mesti membandingkan satu sistem dengan sistem yang lain gitu. Mungkin di sini nol koma dua kecil, tapi misalkan kita ke sistem yang sangat deliked gitu, misalkan buat terbangin pesawat untuk belokin ngarai rudal misalnya itu nol koma dua itu main tongsu nol koma dua itu bisa bukannya ke korea Utara tapi ke Korea Selatan maka dari itu di sini ada namanya galat
+
+[Cakrawala] 12:54:06
+relatif.
+
+[Cakrawala] 12:54:12
+Yang mana definisinya adalah Eee.
+
+[Cakrawala] 12:54:17
+Hai selisih ini enggak usah pakai tulisan lagi pakai formula harusnya ada make sense dari sini.
+
+[Cakrawala] 12:54:23
+Jadi si apa namanya?
+
+[Cakrawala] 12:54:28
+Selisih dari nilai except dan nilai sini tampilan dibagi sama Lexaknya. Hai nah ini yang tadi saya bilang jadi jadi contoh.
+
+[Cakrawala] 12:54:45
+Misalkan ada angka nol koma, satu versus nol koma. Dua hai nah terus ada angka seribu koma, satu versus seribu koma.
+
+[Cakrawala] 12:55:02
+Dua nah, ini. Konteksnya gimana gitu nol koma satu nol koma dua ini bedanya memang nol koma satu bedanya kecil tapi di sini di seribu koma satu dan seribu koma.
+
+[Cakrawala] 12:55:10
+Dua ini ini yang tadi signifikan. Ini jadi les signifikan gitu. Karena kayak beda makanya di sini kita ada galat relatif yang bisa memberikan presentase error ini berapa persen sih jadi untuk nembak rubel kita itu error yang bisa diterima itu berapa persen oke, misalkan cuma menerima eo normal nol satu persen baru diterima.
+
+[Cakrawala] 12:55:37
+Itu. Nah untuk contoh balet itu sendiri.
+
+[Cakrawala] 12:55:48
+Kalian pasti tahu nilai api itu panjang banget tiga koma satu empat seratus lima puluh sembilan ini kalau saya tulis udah udah selesai masih nonnis gini.
+
+[Cakrawala] 12:56:02
+Okay, dan kita biasanya ketika ngitung ngitung aja kita pakai kehamilan sebenarnya itu nilai tiga koma. Satu empat ini salah satu ini Hai cara kita untuk nge handle dalet nah terus.
+
+[Cakrawala] 12:56:21
+Dari sini kita bisa menghitung relat absolutenya disini saya pakai ini tiga koma. Satu empat seratus lima puluh sembilan dikurangi tiga koma.
+
+[Cakrawala] 12:56:34
+Satu empat sama dengan nol koma nol satu lima sembilan nah, relatifnya sama dengan ini saya langsung ini aja nol koma nol satu lima sembilan yang ini dibagi tiga koma satu empat bla bla bla bla.
+
+[Cakrawala] 12:56:50
+Bla. Bla. Bla. Bla. Bla. Bla. Bla. Bla. Bla. Bla. Bla. Bla. Bla. Bla. Bla. Bla.
+
+[Cakrawala] 12:56:53
+Bla. Bla. Bla. Bla. Bla. Bla. Bla. Bla. Bla. Bla. Bla. Bla. Bla. Bla. Bla.
+
+[Cakrawala] 12:56:56
+Bla. Bla. Bla. Nah ini tergantung lagi sistemnya gitu.
+
+[Cakrawala] 12:57:02
+Yang tadi saya bilang ketika sistemnya ini sistem balistik rudal apakah bisa menerima error seperti ini?
+
+[Cakrawala] 12:57:08
+Apakah p. Yang menggunakan cocok seperti ini? Nah, cara untuk mengurangi air mineral itu sebenarnya gampang ambilin aja angkanya.
+
+[Cakrawala] 12:57:20
+Karena ketika kita membuat dia semakin dekat dengan si ini. Siap si Xak. Makanya siang orang ini dia apa makin makin turun dan bisa mungkin diakses di suatu sistem tertentu yang memang butuh error yang sangat kecil.
+
+[Cakrawala] 12:57:34
+Okay, saya nggak ngelewatin latihan kan masih ada latihan. Hai, oke, nah sekarang ada satu latihan kuis Hai sambil saya mesti catat namanya ilmar tadi.
+
+[Cakrawala] 12:57:49
+Yang bisa langsung aja ke depan kerjain ambil spidolnya. Satu orang aja.
+
+[Cakrawala] 12:57:55
+Soal latihan okay Nilai xakti itu sama dengan dua koma. Tujuh satu delapan ratus dua puluh delapan nilai hampirannya sama dengan dua koma.
+
+[Cakrawala] 12:58:15
+Tujuh dua itu Ir sama I Absoluting.
+
+[Cakrawala] 12:58:24
+Dan itu soalnya.
+
+[Cakrawala] 12:58:41
+Waktunya singkat aja sampai jam pukul tiga belas dua.
+
+[Cakrawala] 12:58:50
+Cuma tadi Umar kayaknya.
+
+[Cakrawala] 12:59:03
+Ejanya bagaimana ya umarges dan tanaman nggak ketemu di sini. Ini belum nol tiga kan nol enam ternyata saya bingung nih.
+
+[Cakrawala] 12:59:15
+Waktu malam saya.
+
+[Cakrawala] 12:59:19
+Hai Hai Hai.
+
+[Cakrawala] 12:59:25
+Saya perlu nulis di sini soalnya tadi itu gak nulis kayak gini durasinya jadinya molor.
+
+[Cakrawala] 12:59:32
+Mesti exact begini.
+
+[Cakrawala] 13:00:40
+Selamat malam.
+
+[Cakrawala] 13:03:03
+Udah.
+
+[Cakrawala] 13:03:16
+Dalam persen jangan lupa tapi udah it s okay.
+
+[Cakrawala] 13:03:38
+Namanya siapa nandro.
+
+[Cakrawala] 13:03:46
+Hai Ananda, siapa sih?
+
+[Cakrawala] 13:04:01
+Hai aku nemu namanya bisa tolong dibantu ayo waktu nih transaksi ini tujuh ribu enam ratus enam puluh enam ini kan Ananda.
+
+[Cakrawala] 13:04:15
+Oke sorry sorry sorry sesi satu nijem minta ke fase.
+
+[Cakrawala] 13:04:36
+Ini dikali seratus persen bukan dikasih simbol persen.
+
+[Cakrawala] 13:04:42
+Hai heeh.
+
+[Cakrawala] 13:04:46
+Next di sini ada ada materi yang saya nggak bisa cover sendiri soalnya lumayan panjang dan.
+
+[Cakrawala] 13:04:54
+Dan panjang jadi tolong pelajari aja sistem buner supaya relevan aja.
+
+[Cakrawala] 13:05:05
+Sistem miner itu nol satu nol satu.
+
+[Cakrawala] 13:05:09
+Hai nah jadi file buat kalian.
+
+[Cakrawala] 13:05:17
+Bahwa komputer.
+
+[Cakrawala] 13:05:22
+Itu menyimpan data.
+
+[Cakrawala] 13:05:29
+Dengan bentuknya biner.
+
+[Cakrawala] 13:05:33
+Mineral itu bilangnya nol satu nol satu contohnya misalkan angka lima koma tujuh lima.
+
+[Cakrawala] 13:05:44
+Yang mana ini bilang anda Simal.
+
+[Cakrawala] 13:05:47
+Kalau di konsep jadi biner itu seratus satu koma satu satu itu ada perhitungannya sendiri yang akan dibahas secara detail di sini.
+
+[Cakrawala] 13:05:56
+Gitu. Nah dengan seperti ini Om hai di komputer itu yang mesti kalian pahami adalah satu bahwa memori di komputer terbatas untuk kalkulasi.
+
+[Cakrawala] 13:06:16
+Jadi kalau misalkan kalian enam puluh empat bit itu bisa mengolah berapa angka saya lupa lima belas kalau tidak salah jadi ada ada keterbatasan dari si device nya kita komputer.
+
+[Cakrawala] 13:06:31
+Nah makanya Ee dibutuhkan pembulatan.
+
+[Cakrawala] 13:06:42
+Nah, ada dua cara untuk melakukan pembulatan dua aturan.
+
+[Cakrawala] 13:06:57
+Nah yang pertama itu metode Chatting.
+
+[Cakrawala] 13:07:04
+Topping asal potong aja topping shopping keka digit.
+
+[Cakrawala] 13:07:13
+Artinya apa ini Asy Fo As.
+
+[Cakrawala] 13:07:18
+Buang sisa setelah digit S.
+
+[Cakrawala] 13:07:27
+Benar benar dibuang. Jadi contohnya tadi.
+
+[Cakrawala] 13:07:32
+Itu tiga koma satu empat seratus lima puluh sembilan itu let s say, kita o tiga digit di belakang koma.
+
+[Cakrawala] 13:07:43
+Dan satu lagi kayak ronding pembulatan.
+
+[Cakrawala] 13:07:54
+Ini membulatkan juga ada boleh belakang ke atas yang ke bawah. Tapi kita coba gunakan pembulatan yang ke atas Na Ronding.
+
+[Cakrawala] 13:08:03
+Ke Ad Digit.
+
+[Cakrawala] 13:08:10
+Di sini Rohnya jika jika digit ke Pak P satu itu lebih besar atau sama dengan lima.
+
+[Cakrawala] 13:08:25
+Tambahkan.
+
+[Cakrawala] 13:08:29
+Satu pada Digit.
+
+[Cakrawala] 13:08:34
+Ke kak ini oning up.
+
+[Cakrawala] 13:08:42
+Jadi misalkan yang tadi sama dengan tiga koma. Satu empat lima sembilan itu di rounding up jadi tiga koma. Satu empat dua nah.
+
+[Cakrawala] 13:08:56
+Biasanya coba nanti kalian hitung errornya lagi itu dimana error dari cara kita rending di rounding.
+
+[Cakrawala] 13:09:13
+Itu dia lebih kecil daripada echoping.
+
+[Cakrawala] 13:09:18
+Hai jadi diwar dengan cara kalian ngeronding apalagi bagian codingnya nanti pas nge chrome diusahakan ngeround apa aja konsisten font up.
+
+[Cakrawala] 13:09:32
+Itu.
+
+[Cakrawala] 13:09:38
+Tiga seribu tiga ratus enam puluh sembilan.
+
+[Cakrawala] 13:09:43
+Sekarang kita akan coba membahas mengenai literasi ada yang pernah dengar literasi bukan terasi.
+
+[Cakrawala] 13:09:52
+Aja bukan ini bukan i fraksi tapi di terasi.
+
+[Cakrawala] 13:10:08
+Belum pernah dengar istilahnya dan kira kira apa makna?
+
+[Cakrawala] 13:10:14
+Bisa bisa bisa perulangan bisa mengulang ulang.
+
+[Cakrawala] 13:10:20
+Hai hehehe. Di sini kita akan coba Hai, ada contoh nih nanti ada push lagi hai tampil simple jadi nilai except p akar dua dimana kurang lebih satu koma empat satu empat dua satu tiga ratus lima puluh enam ini nggak akan saya tulis panjang gini lagi next saya cuman begini aja sebagai konteks sekarang kita coba menebak angkanya kita tebak jadi tembakakan yang pertama.
+
+[Cakrawala] 13:11:11
+Oke tembakakan yang pertama let say. Kita tebak toh akar ada dua itu sama dengan satu koma.
+
+[Cakrawala] 13:11:20
+Empat.
+
+[Cakrawala] 13:11:24
+Nah, lalu satu koma empat.
+
+[Cakrawala] 13:11:32
+Square mengebul sama dengan satu koma. Sembilan enam ini dari mana ini bukan shalat bukan sir Road nih.
+
+[Cakrawala] 13:11:45
+Ini di Square ini sampingnya juga di Square gitu, maka ini rutnya hilang jadi di sini itu ada pangkat dua.
+
+[Cakrawala] 13:11:55
+Hai ternyata dia selingnya satu koma. Sembilan enam.
+
+[Cakrawala] 13:11:59
+Error er eror absolutenya itu sama dengan ini saya hitung langsung aja hasilnya nol koma nol satu empat dua oke yang diperhatikan kolom di bagian sini bagian error.
+
+[Cakrawala] 13:12:15
+Nah sekarang kita pakai tebakan dua Hai t dua itu kita coba tekan itu sama dengan satu koma empat satu di sini.
+
+[Cakrawala] 13:12:30
+Kalian perhatikan bijinya di sini satu digit ini dua digit.
+
+[Cakrawala] 13:12:36
+Nah, ketika kita coba menebak dan apa digital terutama yang di belakang Oma. Makasih satu koma empat satu skip pengedua sama dengan satu koma.
+
+[Cakrawala] 13:12:49
+Sembilan delapan delapan puluh satu dimana error absolutenya itu sama dengan nol koma. Nol empat dua.
+
+[Cakrawala] 13:12:57
+Nah, di sini sebenarnya ada satu lagi tebakan. Tapi di sini harusnya kalian udah get the point. Apa belum boleh semakin panjang. Bijit tampilannya digit tebakannya kita itu dia semakin kecil dalatnya error an makin kecil yang di sini.
+
+[Cakrawala] 13:13:33
+Nah jadi ini sebenarnya salah satu esensi dari metode numberik bahwa metode numerik itu adalah literasi ngelakuin pengulangan.
+
+[Cakrawala] 13:13:33
+Bahkan satu tombangan dua, tiga dan kita melakukan pengendalian galak pengadaan error.
+
+[Cakrawala] 13:13:35
+Kalau pas literasi terus tiba tiba errornya naik something is wong di situ harusnya ketika kalian terasi itu dia errornya makin lama makin kecil.
+
+[Cakrawala] 13:13:44
+Gitu nah latihan selanjutnya.
+
+[Cakrawala] 13:13:50
+Jam berapa? Tiga belas tiga belas oke?
+
+[Cakrawala] 13:13:58
+Hai harusnya sih masih simpet paling kalau tidak sempet di pertemuan yang kedua.
+
+[Cakrawala] 13:14:07
+Dimana model kedua habis ketua yang pertama habis ini kita latihan dulu aja.
+
+[Cakrawala] 13:14:25
+Mungkin latihannya cukup simple lebih ke pemahaman konsep.
+
+[Cakrawala] 13:14:32
+Tanknya akar tiga yang manaakar tiga itu value nya satu koma tujuh tiga dua ratus lima gunakan tembakan tembakan.
+
+[Cakrawala] 13:14:47
+Satu koma, tujuh satu koma, delapan tiga dan satu koma. Tujuh tiga dua. Nah, nanti.
+
+[Cakrawala] 13:15:00
+Hai Show nanti Galaat Absolut.
+
+[Cakrawala] 13:15:08
+Heh nin bosnya waktu ngerjainnya lima menit.
+
+[Cakrawala] 13:15:16
+Yang sudah selesai atau enggak yang bisa langsung ke depan. Silahkan.
+
+[Cakrawala] 13:15:23
+Hai habis itu kita bahas algoritma dan langsung bisa loading.
+
+[Cakrawala] 13:15:42
+Masih sih masing masing.
+
+[Cakrawala] 13:17:58
+Kalau nitip dulu sudah mulai aman.
+
+[Cakrawala] 13:19:09
+Boleh lagi juga pak, bener bener.
+
+[Cakrawala] 13:20:38
+Dan juga Adventure Hello udah jadi alhamdulillah.
+
+[034_Anggara Ramdhan Pramudita_IK] 13:20:47
+Soft Dress.
+
+[Cakrawala] 13:20:50
+Silahkan.
+
+[034_Anggara Ramdhan Pramudita_IK] 13:21:17
+Ini semua nol nol.
+
+[Cakrawala] 13:21:21
+Yang dilapaknya sudah ada United atau Revisual Code Studio bisa Dibuka dulu sambil loading.
+
+[Cakrawala] 13:21:30
+Hai, habis ini kita mau coba buat alberitma sederhana untuk melakukan penjumlahan n Bulangan.
+
+[Cakrawala] 13:21:41
+Alias Sum Sams.
+
+[Cakrawala] 13:22:27
+Bisa di unit kayak saya bisa langsung di visual Studio Code di Running bisa di aplikasi yang kalian familiar.
+
+[Cakrawala] 13:22:54
+Ibu mau.
+
+[Cakrawala] 13:22:58
+Nol koma enam.
+
+[Cakrawala] 13:23:11
+Yang dua kurang tepat tapi karena dua lainnya di oke, saya terima siapa begitu.
+
+[Cakrawala] 13:23:21
+Baik Bu.
+
+[Cakrawala] 13:23:28
+Hai kenceng oke kita ke ogal lima.
+
+[Cakrawala] 13:23:36
+Sudah bagus ini temponya ini.
+
+[Cakrawala] 13:24:09
+Algoritma urutan.
+
+[Cakrawala] 13:24:11
+Langkah logis.
+
+[Cakrawala] 13:24:17
+Dan jelas.
+
+[Cakrawala] 13:24:22
+Untuk menyelesaikan.
+
+[Cakrawala] 13:24:29
+Masalah Hai, oke nah Hai, sekarang saya kasih masalahnya.
+
+[Cakrawala] 13:24:53
+Hai buat algoritma.
+
+[Cakrawala] 13:24:58
+Yang jumlahan.
+
+[Cakrawala] 13:25:03
+N gulalan.
+
+[Cakrawala] 13:25:13
+Inputnya.
+
+[Cakrawala] 13:25:18
+Hai, misalkan x, satu x dua X tiga Xn terserah ini mau kalian isi angka beneran juga nggak apa apa.
+
+[Cakrawala] 13:25:31
+Hai. Output.
+
+[Cakrawala] 13:25:37
+Total dari mereka semua.
+
+[Cakrawala] 13:25:59
+Sampai tiga belas tiga puluh dua maksimum.
+
+[Cakrawala] 13:26:05
+Sore aku nggak terlalu beratin Chat tolong kalau ada yang Chat kabar ini.
+
+[Cakrawala] 13:26:10
+Hai oke, hai iyalah matematika.
+
+[Cakrawala] 13:26:18
+Kalau di posisi kalian juga kosong.
+
+[Cakrawala] 13:26:23
+Bingung apa lagi?
+
+[Cakrawala] 13:26:30
+Ini kalau buat apa?
+
+[Cakrawala] 13:26:34
+Software nanti pelan pelan nih kita pelan pelan. Makin jelas kok apa sih?
+
+[Cakrawala] 13:26:43
+Maksudnya solver apa sih yang mau di software sebenarnya ujung ujungnya itu nyari akar persamaan agar persamaan itu ketika apa namanya X sama dengan Nol? Itu berapa udah anda ketika dalam kondisi itu itu lebih mudah di analisis.
+
+[Cakrawala] 13:27:17
+Dua Puluh lima tahun.
+
+[Cakrawala] 13:27:26
+Halo mau ada yang langsung kerja di papan juga boleh.
+
+[Cakrawala] 13:28:55
+Ini berarti jadi tutorial bilangnya kan bisa di lima nah ini algoritma ini.
+
+[Cakrawala] 13:29:06
+Dalam kodenya. Dalam bahasa koding yang enam belas familiar.
+
+[Cakrawala] 13:29:18
+Lalu kurang jelas itu tadi saya mau pilih sisa cuma entah kalian terpaksa belajar sisa pas sekarang di dalam bahasa kodenya yang kalian familiar misalkan si plus plus familiar atau enggak item atau ngasih charge familiar tolong di ini dibuat.
+
+[Cakrawala] 13:29:39
+Bisa tulis di situ bisa langsung nunjukin programnya nih pak udah runding.
+
+[Cakrawala] 13:30:34
+Dan.
+
+[Cakrawala] 13:30:56
+Diponegoro.
+
+[Cakrawala] 13:31:16
+Hai hehehe.
+
+[Cakrawala] 13:31:21
+Tiga belas, tiga puluh dua saya coba Hai Jin.
+
+[Cakrawala] 13:31:29
+Hai saya screen dulu di Zoom.
+
+[Cakrawala] 13:31:39
+Semoga tidak blunder saya coding live.
+
+[Cakrawala] 13:31:46
+Hai nih Kelihatan.
+
+[Cakrawala] 13:31:52
+Jadi jadi saya ada di unit sekarang dan ini skripnya saya teks di sebuah objek dimana nanti skripnya akan running.
+
+[Cakrawala] 13:32:00
+Kalau kalau sudah dimasukin ke dalam sebuah objek dan untuk yang tidak familiar sama.
+
+[Cakrawala] 13:32:06
+Unity ada metode start dimana metode start ini akan dieksekusi ketika game mulai atau ketika simulasi dimulai.
+
+[Cakrawala] 13:32:14
+Nah di sini aku akan buat satu metode public yaitu adalah aku Let Son.
+
+[Cakrawala] 13:32:27
+Saminya nggak usah ngegas.
+
+[Cakrawala] 13:32:30
+Oke, lalu metode ini akan di Call.
+
+[Cakrawala] 13:32:35
+Nanti waktu start. Nah untuk balik lagi ke algoritma buat agrarma inputnya adalah angka angka jadi disini saya membuat sebuah ray familiar kan dengan Ray dan di sini saya buat namanya Numbers.
+
+[Cakrawala] 13:32:54
+Dan.
+
+[Cakrawala] 13:33:00
+Lihat saya ini sudah pribo angkanya.
+
+[Cakrawala] 13:33:04
+Satu, dua, tiga, empat, lima, dan ada satu variabel lagi yang akan nge store menyimpan si Sam itu sendiri.
+
+[Cakrawala] 13:33:16
+Yang kita set aja nilai awalnya nol.
+
+[Cakrawala] 13:33:20
+Oke, ambil rumahnya adalah kita menambahkan something yang ada di array Hai, itu. Satu persatu itu dengan menggunakan apa namanya notasi seratus dua puluh tiga kita menggunakan menggantikannya.
+
+[Cakrawala] 13:33:38
+Dengan I. Jadi kalau kalian familiar dengan Solo.
+
+[Cakrawala] 13:33:47
+Nah jadi ini i gantinya sih satu dua tiga yang di bawah itu. Kita start pada notasi nol dan loop ini itu akan berjalan beberapa kali yaitu adalah kurang ketika I itu kurang dari panjang dari array si line si Numbers ini dia tetap Running Hai ini numbers deadline ini apa berapa konten yang ada di area ini disini lima jadi dia akan kaming sampai klik kurang dari
+
+[Cakrawala] 13:34:23
+lima tetep running dan ininya ditambah terus satu plus plus plus satu terus ketika tim kami itu ini logicnya simple dimana sound brush sama dengan.
+
+[Cakrawala] 13:34:37
+Numbers terus kita masukin kode Natia itu untuk mengambil data dari sini dan di sini kita coba kasih sebuah hasil print yaitu Hai, apa?
+
+[Cakrawala] 13:35:00
+Hai hey to someone so frame.
+
+[Cakrawala] 13:35:13
+Hai, ini saya coba coba sendiri sebentar Hai ini ini imit Hai sound.
+
+[Cakrawala] 13:35:29
+Hai sound. Oke lalu di sini kita coba print Totalnya.
+
+[Cakrawala] 13:35:41
+Oke sob. Sab.
+
+[Cakrawala] 13:35:52
+Hai hey dunia twit ini di ada sebuah inspektor penyebutnya di sini kita bisa membawa value yang di dalam Ray. Contoh misalkan kita ubah semua jadi lima ratus lima puluh lima ekspektasinya adalah sam itu dua puluh lima jadi di sini saya running.
+
+[Cakrawala] 13:36:10
+Ok, jadi disini pelan pelanet lima tusam.
+
+[Cakrawala] 13:36:17
+Dari nol. Jadi lima lima sepuluh sampai akhirnya dua puluh ke dua puluh lima dan sampai dua puluh lima jadi ini algoritma yang saya bangun untuk membuat apa namanya.
+
+[Cakrawala] 13:36:44
+Metode ngesump di Hai, asisten. Kau ambil kayak gini simpel pakai volume aja youtube jadi nanti misalkan ada algoritma yang lain yang mesti kalian buat yaitu mesti secara sistematis dan bisa mewakili apa yang mau jadi tujuan kalian.
+
+[Cakrawala] 13:36:53
+Hai nih.
+
+[Cakrawala] 13:37:02
+Hai, nih, kita ada delapan menit lagi harusnya yang cukup.
+
+[Cakrawala] 13:37:12
+Selanjutnya kita membahas mengenai convergency.
+
+[Cakrawala] 13:37:28
+Konsergency.
+
+[Cakrawala] 13:37:35
+Hei.
+
+[Cakrawala] 13:37:39
+Jadi seperti yang kalian lihat sendiri dari tadi bahwa di metode nomor itu kita melakukan tembakan tembakakan.
+
+[Cakrawala] 13:37:47
+Nah, kalau kalian ingat matematika dasar itu ada namanya deret sebenarnya bahkan bahkan yang kita lakukan dia daerah tembakakan aja kita dari nebak pakai nol koma satu nol koma dua nol koma tiga dan seterusnya dan seterusnya.
+
+[Cakrawala] 13:38:00
+Itu. Nah.
+
+[Cakrawala] 13:38:03
+Jadi sebuah metode.
+
+[Cakrawala] 13:38:12
+Dikatakan.
+
+[Cakrawala] 13:38:17
+On Virgin.
+
+[Cakrawala] 13:38:22
+Bila apabila.
+
+[Cakrawala] 13:38:40
+Not nothing saya kebalik ini tadi yang hampiran kan yang ada bintang ya?
+
+[Cakrawala] 13:38:45
+Kalau misalnya dari tadi kita pakai P, tiba tiba x sorry.
+
+[Cakrawala] 13:38:57
+Ini artinya apa artinya ketika kita coba coba yang sampai infinity itu bagus lah si phampirannya itu sama dengan si xak kesimpulan.
+
+[Cakrawala] 13:39:12
+Setiap jadi ketika kita berdiskusi nanti gimana itu persamaannya udah bisa convergent belum artinya setelah kalian nyoba nyoba banyak apakah nilainya itu mendekati hasil eksaknya gitu, bahasa singkatnya udah konsisten belum jadi itu yang akan kita pakai convergent nah om cara ngecek konvergensi salah satunya dari tadi kita udah coba coba ketika galat yang makin kecil itu biasanya itu makin lama
+
+[Cakrawala] 13:39:45
+makin convergent.
+
+[Cakrawala] 13:39:50
+Nah, ini tugas satu yang dikumpulkan minggu depan.
+
+[Cakrawala] 13:40:08
+Jadi fungsi persamaannya lagi simpel saja persamaannya X kuadrat minus dua.
+
+[Cakrawala] 13:40:22
+Soalnya adalah cowok utamanya.
+
+[Cakrawala] 13:40:27
+Cari Cari Akar, Persamaan.
+
+[Cakrawala] 13:40:36
+Tampilan.
+
+[Cakrawala] 13:40:40
+Karena disini kita pakai X sini saya pakai tekstur.
+
+[Cakrawala] 13:40:48
+Dua puluh dua.
+
+[Cakrawala] 13:40:54
+Gunakan.
+
+[Cakrawala] 13:40:57
+Metode.
+
+[Cakrawala] 13:41:01
+Per section yang sebentar lagi kita akan pelajari.
+
+[Cakrawala] 13:41:07
+Tiga tiga tentukan interoval.
+
+[Cakrawala] 13:41:15
+Awal dan akhir nanti semua akan make sense pada waktunya.
+
+[Cakrawala] 13:41:25
+Lakukan enam literasi.
+
+[Cakrawala] 13:41:32
+Dan buat tabel. Nah tabelnya ini isinya a, a, dimana k. Itu jumlah literasi yang dilakukan berapa kali nanti ak ini semua akan make sense pada waktunya atau bk mk fungsi mk error absolutenya juga.
+
+[Cakrawala] 13:42:02
+I Don't Know Tulus Program dalam Sh Shop.
+
+[Cakrawala] 13:42:17
+Yang menghitung.
+
+[Cakrawala] 13:42:23
+Akar.
+
+[Cakrawala] 13:42:26
+Dengan toleransi.
+
+[Cakrawala] 13:42:34
+Atau error.
+
+[Cakrawala] 13:42:39
+Sepuluh pangkat, Mid enam.
+
+[Cakrawala] 13:42:42
+Kuliah pertemuan satu sudah selesai sampai di sini.
+
+[Cakrawala] 13:42:47
+Ada yang mau ditanyain jadi di sini.
+
+[Cakrawala] 13:42:51
+Hai dalatnya udah kita tentuin dari awal kita detailing jadi nanti pas ketika ngoding itu kalian bisa ngecek saya akan kasih tau pak algoritma pake logic apa tapi mesti dicek bahwa errornya itu mesti apa namanya lebih kecil dari sepuluh penghapin enam ini kriteria yang salah satu yang penting kita ini dikumpulin di minggu depan formatnya
+
+[Cakrawala] 13:43:15
+dikumpulin lagi di Pdf satu lembar harusnya satu lembar cukup jadi nanti cara saya ngecek coding sapnya adalah saya akan masukkan itu ke metodenya.
+
+[Cakrawala] 13:43:26
+Saya jadi kalian udah nggak usah pikirin unit tiu dan lain lainnya yang akan saya ambil itu adalah ini nanti gini public saya akan mengambil Double.
+
+[Cakrawala] 13:43:40
+Pelajari sendiri. Kenapa saya pakai double?
+
+[Cakrawala] 13:43:46
+Gap.
+
+[Cakrawala] 13:43:49
+Tugas satu.
+
+[Cakrawala] 13:43:53
+Jadi jadi ini metode yang akan saya panggil nanti di Unity.
+
+[Cakrawala] 13:43:59
+Nah kalian itu tinggal ngisi yang di sini? Apa terus return?
+
+[Cakrawala] 13:44:14
+Akar perasaan Manik.
+
+[Cakrawala] 13:44:20
+Latar lebih dari satu gimana udah satu aja udah memang sanggup sing satu saja cukup. Jadi semoga kalian familiar sama Konsep Waiting.
+
+[Cakrawala] 13:44:33
+Jadi intinya ketika saya panggil ini saya bakal dapet sesuatu yang variabelnya. Tipe datanya double dan itu diambil di retain dari akar posamannya.
+
+[Cakrawala] 13:44:44
+Kalian jadi saya tinggal copas coding kalian masukin sini set pas saya liat value nya saya dapat value yang sebenarnya gitu kalau mau di Print juga bagus nggak apa apa kalau nggak it s okay, karena metode saya bakal langsung otomatis nge Print.
+
+[Cakrawala] 13:45:22
+Itu maksimal dua halaman tolong dikerjain ini tugas kesatu terus untuk kelompoknya tentuin sendiri dan usahakan ada satu yang seenggaknya dia familiar lah sama united.
+
+[Cakrawala] 13:45:23
+Biar nggak usah belajar ulang dan bisa nge guide teman teman itu kita break dulu sepuluh menit kalau tidak juga terus matematika itu belajar capek sehat aja, jangan susah apalagi lagi menyerun.
+
+[Cakrawala] 13:45:43
+Hai istirahat dulu sepuluh menit.
+
+[Cakrawala] 13:45:53
+Dan saya tidak pernah.
+
+[Cakrawala] 13:45:57
+Bergantian yang habis itu. Kamu hai heeh.
+
+[Cakrawala] 13:46:09
+Dan tidak ketinggalan.
+
+[Cakrawala] 13:50:27
+Apa nggak sih kalian kuliah blok dua kayak gini. Oke, capek banget buat apa sih Pak? Lebih ke pusing.
+
+[Cakrawala] 13:50:35
+Tapi kalau kuliah itu Sks terus blog begitu berturut turut kuliahnya jadi sehari kayak kemarin aja pake dari jawab delapan sampai jam tiga jam tiga jam satu siang makanya sampai akhirnya pergi.
+
+[Cakrawala] 13:50:52
+Hai gila sih, tapi lebih nyaman. Dua apa lebih nyaman yang biasa.
+
+[Cakrawala] 13:50:59
+Kalau enak di bloks gitu lebih fokus submit.
+
+[Cakrawala] 13:51:11
+Sudah ini bagus deh. Kalau membantu kalian aku kira kalian malah kayak wah, musim hujan.
+
+[Cakrawala] 13:51:27
+Aku udah tadi.
+
+[Cakrawala] 13:51:37
+Jangan lupa.
+
+[Cakrawala] 13:52:09
+Kemudian ada deh gitu asing.
+
+[Cakrawala] 13:52:19
+Kayak Selasa lagi Jumatan.
+
+[Cakrawala] 13:52:22
+Nada hijau.
+
+[Cakrawala] 13:52:32
+Ini mesti ganti room ya aku lupa.
+
+[Cakrawala] 13:52:36
+Jadi opsional ini muncul yang yang manual manual recordnya doang, jadi dua dua kali tapi saya mesti ini mesti apa namanya nge stop itu buat ini apa namanya tapi yang saya pertama buat Tps.
+
+[Cakrawala] 13:53:24
+Nanti kita.
+
+[Cakrawala] 13:53:30
+Ini aku mulai Sesi.
+
+[Cakrawala] 13:53:34
+Yang kedua, yang kedua.
+
+[Cakrawala] 13:53:47
+Hai anak anaknya jam berapa kosong kosong dua.
+
+[Cakrawala] 13:54:50
+Dimiliki.
+
+[Cakrawala] 13:56:40
+Seperti itu.
+
+[Cakrawala] 13:56:51
+Baik Bu.
+
+[Cakrawala] 13:57:44
+Nah ini.
+
+[Cakrawala] 13:58:06
+Pelan pelan.
+
+[Cakrawala] 13:58:23
+Tunggu dulu.
+
+[Cakrawala] 13:58:53
+Jadi di sini.
+
+[Cakrawala] 13:59:41
+Iya.
+
+[Cakrawala] 13:59:50
+Tapi di pelaku pelan pelan.
+
+[Cakrawala] 14:00:21
+Mungkin dapat.
+
+[Cakrawala] 14:00:52
+Tombol apa?
+
+[Cakrawala] 14:01:19
+Dua ribu dua puluh dua.
+
+[Cakrawala] 14:01:26
+Bahwa dia.
+
+[Cakrawala] 14:01:36
+Waduh. Masuk. Masuk. Aku gak pernah udah.
+
+[Cakrawala] 14:01:47
+Yang lain Belum Pernah Masuk di Surabaya.
+
+[Cakrawala] 14:02:25
+Seperti itu.
+
+[Cakrawala] 14:02:29
+Perlu Tahu.
+
+[Cakrawala] 14:02:43
+Wah Inilah.
+
+[Cakrawala] 14:03:01
+Mau nonton deh.
+
+[Cakrawala] 14:03:31
+Terima kasih.
+
+[Cakrawala] 14:03:35
+Dan juga.
+
+[Cakrawala] 14:03:50
+B Gede gede gede. Kira kira ini kita lihat dari pekerjaan begitu dua kali.
+
+[Cakrawala] 14:05:03
+Mostly kita lanjut sesi sampai lima belas lima belas.
+
+[Cakrawala] 14:06:02
+Yang tiga.
+
+[Cakrawala] 14:06:16
+Untuk memulai pertemuan kedua, kita akan membahas beberapa hal yang pertama mengenai akar persamaan yang kedua persamaan linear dan non linear kita bahas secara umum untuk memberikan konteks lalu sebagai penutup kita akan bahas salah satu metode untuk mencari akar persamaan dan metode ini bisa digunakan untuk pendekatan lah nyari akar pendekatannya nah, metode yang akan kita
+
+[Cakrawala] 14:06:44
+pelajari adalah metode bisection dimana metode bis action ini bisa dibilang salah satu metode yang paling tidak efisien dan metodenya cukup barbar lah. Tapi it makes sense gitu kenapa orang mungkin nemu metode ini duluan kita kita coba bahas toh kita akan coba bahas mengenai akar persamaan.
+
+[Cakrawala] 14:07:19
+By the way, aku nanya dong lebih enak kayak pakai slide gitu, terus tunjukin aja ini persamaannya persamanya terus dijelasin apa ditulis pelan pelan.
+
+[Cakrawala] 14:07:32
+Saya dulu ini sih waktu diajarin kayak matematika di game tuh yaitu ada dosen ada dua tipe dosen yang slide jujur paling males num matematika slide live udah kayak di kita diminta mengasumsikan memahami jadinya gini oke mbak pada waktu itu enggak ada gp itu kita kadang mesti nurunin sendiri apa gitu, tapi kalau ada dosen
+
+[Cakrawala] 14:08:00
+yang dia bener bener nurunin. Nah saya lebih suka dosen yang kayak gitu gitu.
+
+[Cakrawala] 14:08:04
+Jadi sengaja saya tahu step by stepnya gitu. Makanya ini saya coba tulis tulis manual.
+
+[Cakrawala] 14:08:15
+Akan bersamaan. Jadi pada kesamaan adalah nilai x.
+
+[Cakrawala] 14:08:25
+Yang membuat.
+
+[Cakrawala] 14:08:29
+Fungsi now.
+
+[Cakrawala] 14:08:44
+Kenapa kok nol dia bisa di google sendiri. Tapi intinya adalah mostly fungsi itu bisa dibuat jadi fungsi fungsi ini fungsi seribet apapun geser geser sana sini bisa jadi sama dengan nol dan biasanya posisi yang setimbang itu yang enak diamati yang mudah dianalisis itu ketika kondisinya itu nol contohnya.
+
+[Cakrawala] 14:09:10
+Contoh persamaan saya adalah kesamaan yang kalian lihat terus dari Sma.
+
+[Cakrawala] 14:09:22
+Kesamaan apa ini?
+
+[Cakrawala] 14:09:27
+Hai, apa tulis benar X ini Non Linear kalau ada.
+
+[Cakrawala] 14:09:38
+Sama kuadrat yang mana pesan kuadrat itu udah ada rumus eksaknya. Ini warna akarnya adalah minus B.
+
+[Cakrawala] 14:09:51
+Ini nggak akan dibahas gimana nurunin mini sini karena diasumsikan waktu Sma kemarin sudah dibahas.
+
+[Cakrawala] 14:09:59
+Tapi di sini nunjukkin bahwa ini loh contoh persamaan ini persamaan kuadrat dan dimana persamaan kodrat ini memiliki akar akarnya yang bisa dicari dengan rumus eksak seperti ini itu.
+
+[Cakrawala] 14:10:12
+Nah contoh grafiknya itu misalkan kita pakai ini dia deh rtx.
+
+[Cakrawala] 14:10:24
+X kuadrat Minus. Tag.
+
+[Cakrawala] 14:10:32
+Hai Hey di sini led saya minus empat ini saya pakai perkiraan aja minus dua.
+
+[Cakrawala] 14:10:43
+Ok dua jadi kurang lebih grafiknya.
+
+[Cakrawala] 14:10:53
+Okay, nah yuk posisi dimana? Si Bonus gurufannya ini itu ketika ekses sama dengan nol.
+
+[Cakrawala] 14:11:04
+Nah x disini disini adalah si akar persamaan ini. Jadi ketika kita bilang mau cari akar persamaannya nih.
+
+[Cakrawala] 14:11:11
+Nah, itu adalah yang bertabrakan dengan sumbu x ketika apa namanya pertemuan dengan sumbu. X ketika nah, jadi di sini dalam kasus ini akar akarnya adalah minus dua dan dua kita coba lihat di soft pasti itu.
+
+[Cakrawala] 14:11:29
+Selanjutnya kita mau coba bahas persamaan ini sebenarnya mirip mirip tapi kita coba tes ulang lagi.
+
+[Cakrawala] 14:11:42
+Bersamaan Linear ini dia lebih bersahabat karena bentuk kurvanya itu selalu garis lurus ciri cirinya.
+
+[Cakrawala] 14:11:54
+Contoh kasus di dunia nyata untuk linear dan kita anggap ideal, bahkan kadang sulit nyampe ini abs tadi mau nyantaiin misalkan ban bocor, tapi kalau misalnya bocornya makin lama anginnya pulang ada yang single contoh kasus judulnya itu yang liner.
+
+[Cakrawala] 14:12:20
+Bahkan kenaikan jumlah follower aja itu kan non linear kecuali dulu persamaan linear bentuk umum.
+
+[Cakrawala] 14:12:40
+Misalkan Ax tambah b sama dengan nol Ax tambah B, y terus tambah C sama dengan nol. Hai jadi solusinya itu bisa di dapat dari rumus ekspres sederhana ini bisa di soft dengan mudah nah contohnya.
+
+[Cakrawala] 14:13:03
+Bersama linear itu adalah Fx dua X plus. Tiga.
+
+[Cakrawala] 14:13:18
+Free.
+
+[Cakrawala] 14:13:18
+Distrakting.
+
+[Cakrawala] 14:13:23
+Let. S say, ini tiga Let S say, ini Minus dua.
+
+[Cakrawala] 14:13:33
+Anggap ini garis lurus jadi check in nya dia selalu bersama liner nah bersama. Non liat ini enggak usah saya hapus.
+
+[Cakrawala] 14:13:46
+Ciri cirinya.
+
+[Cakrawala] 14:13:51
+Atau bentuk umumnya biasanya ada pangkat.
+
+[Cakrawala] 14:13:59
+Lebih besar atau sama dengan dua ada akar lah eksponensial.
+
+[Cakrawala] 14:14:06
+Login semua tergonomian curi dan lain lain lah itu yang ngebuat dia jadi udah nggak linear lagi nggak garis lurus lagi.
+
+[Cakrawala] 14:14:14
+Nah ini sulit di save dengan ini. Promo itu, makanya kita butuh pendekatan untuk soft mereka.
+
+[Cakrawala] 14:14:23
+Nah salah satu contohnya adalah Hai humus pertumbuhan penduduk.
+
+[Cakrawala] 14:14:31
+Dimana N Note itu adalah cuma populasi awal.
+
+[Cakrawala] 14:14:43
+Dan ini adalah dua rate dari populasinya. Contoh adalah waktu ini salah satu contoh persamaan yang non linier.
+
+[Cakrawala] 14:14:52
+Yo Yo. Sekarang sudah sampai ke bagian favorit saya. Hai, jadi kayaknya udah nggak perlu ini lagi buat ngejaga tempo harusnya ini sih aman Durasinya.
+
+[Cakrawala] 14:15:16
+Kita akan membahas untuk pembukaan ke metode decaction.
+
+[Cakrawala] 14:15:23
+Kita akan membahas.
+
+[Cakrawala] 14:15:27
+Ternama nilai antara.
+
+[Cakrawala] 14:15:36
+Kalau bahasa inggrisnya intermediate value.
+
+[Cakrawala] 14:15:48
+Ini saya coba menjelaskan pakai logic aja cara simple.
+
+[Cakrawala] 14:16:00
+Misalkan ada sebuah fungsi dengan grafik seperti ini.
+
+[Cakrawala] 14:16:14
+Oke, dia nggak linear ya anggap agak sedikit membantu Hai, dan kita tahu bahwa ini berpas pasan dengan x disini.
+
+[Cakrawala] 14:16:36
+Ketika kita scaming ke sebelah kiri dari irisan ini sebelah kiri sebelah sini.
+
+[Cakrawala] 14:16:55
+Ketika kita masukin Lets See Hai Pc aja ini X Lets say sama dengan satu X sama dengan dua sampai di sini.
+
+[Cakrawala] 14:17:05
+Lets Say X sama dengan delapan Lets say. Nah dalimia si y.
+
+[Cakrawala] 14:17:14
+Itu bakal positif sama negatif.
+
+[Cakrawala] 14:17:19
+Ketika kita masukin value seratus seratus dua puluh delapan.
+
+[Cakrawala] 14:17:26
+Ketika x satu dua maksudnya apa negatif?
+
+[Cakrawala] 14:17:38
+Kenapa yang positif?
+
+[Cakrawala] 14:17:47
+Nih kita pakai logik sederhana aja.
+
+[Cakrawala] 14:17:51
+Ini kita masukin tali dua nih X dua nilainya yang mana sih neng sini oke, kita Masukin X delapan on link sini.
+
+[Cakrawala] 14:18:07
+Nilai yang sini berarti balinya ketika x seratus dua puluh delapan itu udah pasti positif, nggak mungkin biaya nilainya negatif kecuali garisnya nih. L lingkaran tapi dalam konteks ini betul dia pasti positif itu udah pasti positif nah, kebalikannya.
+
+[Cakrawala] 14:18:33
+Ketika kita ke sebelah kanan.
+
+[Cakrawala] 14:18:39
+Let s say, aja ini sepuluh terus di sini sampai lima belas ketika kita masuki nilai X sepuluh lima belas.
+
+[Cakrawala] 14:18:54
+Maka fx itu positif negatif pastinya gitu udah pasti ini negatif nilai.
+
+[Cakrawala] 14:19:03
+Nah ini.
+
+[Cakrawala] 14:19:07
+Artinya ini kita sebut aja angka angka disini itu a.
+
+[Cakrawala] 14:19:17
+C satu sama delapan dan angka yang di sini sepuluh lima belas yang sebelah kanan yaitu b.
+
+[Cakrawala] 14:19:25
+Jadi F a.
+
+[Cakrawala] 14:19:33
+Hai ditarik F beli itu pasti lebih kecil Hai, dari nol. Kenapa pasti lebih kecil dari nol.
+
+[Cakrawala] 14:19:53
+Ini Quick Count ini. Kenapa kenapa dua lebih kecil lagi Nol? Pasti lebih Kecil dari Nol? Ketika fungsi A Dikali sama fungsi B.
+
+[Cakrawala] 14:20:09
+Kita hasilnya mas kalau plus minus dikali misalnya salah satunya mana yang plus yang mana yang minus tuh siapa ini lagi sorry di biasalah minggu pertama ngga perlu muka oke, betul anda jadi pasti sesuatu yang dikali minus itu pasti minus jadi kita tahu bahwa kalau a itu hasil apa sih positif kalau dia yang B, itu pasti negatif, nah, informasi ini itu bisa jadi sebuah metode untuk menebak berapa sih
+
+[Cakrawala] 14:20:48
+nilai r gitu. Misal berapa sih nilainya ini bisa kita gunakan.
+
+[Cakrawala] 14:20:56
+Gimana caranya? Ayo kita biarin aja coret coretan di situ.
+
+[Cakrawala] 14:21:03
+Dan kita buat baru aja.
+
+[Cakrawala] 14:21:20
+Kita coba agak sama gitu lets say gini.
+
+[Cakrawala] 14:21:26
+Sorry ini grafik yang jelek ntar buat jadi contoh jelek.
+
+[Cakrawala] 14:21:37
+Oke let s say, bagus.
+
+[Cakrawala] 14:21:40
+Oke nah.
+
+[Cakrawala] 14:21:43
+Ada yang punya ide enggak gimana cara menebak.
+
+[Cakrawala] 14:21:52
+Nilai r.
+
+[Cakrawala] 14:21:57
+Dari informasi yang kita punya disini bahwa.
+
+[Cakrawala] 14:22:02
+Fb kecil daripada nol.
+
+[Cakrawala] 14:22:14
+Jadi metode by section. Itu kalau diartikan cuma dia diartikan sama google gemini deh Gpt itu dia ada aneh aneh, tapi belum bilang itu udah belan dua tapi make sense belah dua puluh dua seksi dipisah menjadi dua section.
+
+[Cakrawala] 14:22:35
+Jadi again met metode numerik. Kita coba melakukan pendekatan aslinya tebak tebakan yang terstruktur dan organisasi aja gitu cuma bayangannya cuma kita nggak ngerti apa apa dulu kita tebak tebakan nilai ini kita tebak oke kita tebak misalkan nilai in itu itu tuh ada di let s say.
+
+[Cakrawala] 14:23:00
+Ini deh dua antara dua dan empat kita tempat antara dua sama empat.
+
+[Cakrawala] 14:23:11
+Maka ketika F, dua D F empat itu udah pasti lebih saya dari nol karena positif.
+
+[Cakrawala] 14:23:28
+Kalau kita tembak dia misalkan F dia ada di delapan belas dan f tiga puluh dia udah pasti lebih kecil yang lebih besar daripada nol negatif ketemu negatif kali negatif.
+
+[Cakrawala] 14:23:48
+Berarti salah satu metode untuk kita Hai mengurung si R itu adalah kalau tembakakan kita menghasilkan.
+
+[Cakrawala] 14:24:02
+Ini ketika saya tekan tombol kita kenakan pertama adalah gimana kalau tembakakan pertama A itu sama dengan empat.
+
+[Cakrawala] 14:24:16
+Jadi kita mulai mengurungnya itu disini.
+
+[Cakrawala] 14:24:21
+Dan B itu sama dengan.
+
+[Cakrawala] 14:24:26
+Jadi gambarnya delapan belas.
+
+[Cakrawala] 14:24:32
+Upgrade nah maka F a dot Fb itu udah pasti oleh R nol. Jadi nanti di tugas yang satu ketika kalian mencari interval.
+
+[Cakrawala] 14:24:51
+Gini, caranya jadi kalian bisa nentuin dulu intervalnya A koma B, totalnya berapa karena nilai yang total penting buat nentuin akal persamaannya.
+
+[Cakrawala] 14:25:07
+Itu oke, sekarang kita udah punya bracket yang mengurung si R Next step gimana next step di metode by section.
+
+[Cakrawala] 14:25:20
+Itu kita coba untuk mengambil nilai tengah.
+
+[Cakrawala] 14:25:29
+Ini saya hapus sudah difotokan teman.
+
+[Cakrawala] 14:25:37
+Kita coba mengambil nilai tengah.
+
+[Cakrawala] 14:25:46
+Hai Hey mulai pelangi Let say dengan Rumus M.
+
+[Cakrawala] 14:25:57
+Hai sama dengan Mk dimana K itu adalah literasi. Beberapa.
+
+[Cakrawala] 14:26:07
+B, kurang a. Bagi dua sesimpel ini buat nyambung nilai tengahnya tengah tengahnya dimana sih dalam kasus ini M, nol kita nilai tengah yang pertama itu adalah si berapa nih B, kita delapan belas kurangi empat tujuh tadi.
+
+[Cakrawala] 14:26:36
+Tujuh oke, nilai tengah kita tujuh. Oke net. Saya tujuh disini ini kira kira aja.
+
+[Cakrawala] 14:26:46
+M. N itu adalah tujuh.
+
+[Cakrawala] 14:26:55
+Oke, sekarang kita punya beberapa ada tiga fungsi di situ yang pertama, ada F empat Fc oke, selanjutnya ada f tujuh.
+
+[Cakrawala] 14:27:11
+Lalu ada F. Delapan belas.
+
+[Cakrawala] 14:27:15
+Hai keh.
+
+[Cakrawala] 14:27:19
+Kita cek lagi. Kita mau mengulang lagi. Empat empat Hai positif tujuh positif.
+
+[Cakrawala] 14:27:34
+Delapan belas negatif.
+
+[Cakrawala] 14:27:39
+Jadi ketika kita membuat interval betul itu kita mesti cek.
+
+[Cakrawala] 14:27:51
+Jika.
+
+[Cakrawala] 14:27:55
+F D.
+
+[Cakrawala] 14:28:03
+Ff M K lebih kecil daripada nol maka interval baru.
+
+[Cakrawala] 14:28:26
+M a.
+
+[Cakrawala] 14:28:31
+Made.
+
+[Cakrawala] 14:28:35
+Lalu kita jika f a dot rmk lebih kecil daripada nol.
+
+[Cakrawala] 14:28:51
+Ini kemungkinan ada yang salah disini saya agak lupa.
+
+[Cakrawala] 14:28:59
+Saya mesti cek dulu di notes.
+
+[Cakrawala] 14:29:08
+Yang biasa kita cek dulu logistik.
+
+[Cakrawala] 14:29:13
+B sama mk ini sama ini ini bek mk ini sama mk Oh enggak dia positif ini logis. Oke, jadi ini syaratnya syarat yang terpenuhi itu adalah yang ini Rd.
+
+[Cakrawala] 14:29:36
+Mk.
+
+[Cakrawala] 14:29:39
+Lebih kecil daripada nol.
+
+[Cakrawala] 14:29:43
+Hai jadi interval barunya kita adalah.
+
+[Cakrawala] 14:29:48
+Apa namanya mk tujuh.
+
+[Cakrawala] 14:29:53
+Koma delapan belas.
+
+[Cakrawala] 14:29:58
+Dipakai buat apa ini dipakai untuk literasi lagi.
+
+[Cakrawala] 14:30:05
+Sekarang bracketnya makin dekat dia ke tujuan jadi di sini m nol tujuh nah disini kita kasih bracket lagi.
+
+[Cakrawala] 14:30:22
+Next step ngapain?
+
+[Cakrawala] 14:30:26
+Dihitung lagi. Hai nilai tengah m satu sekarang sama dengan.
+
+[Cakrawala] 14:30:36
+Lanjutkan nih satu orang bagian dari quest sampai dapat interval yang selanjutnya.
+
+[Cakrawala] 14:30:43
+Hai, ada yang melanjutkan.
+
+[Cakrawala] 14:30:56
+Tapi yang lanjutin apa namanya Weton Interval yang selanjutnya itu berapa sih itu Mk?
+
+[Cakrawala] 14:31:07
+Ndak ini udah ada contohnya di sini tinggal ngikutin.
+
+[Cakrawala] 14:31:17
+Silahkan silahkan.
+
+[Cakrawala] 14:31:29
+Mau nanya dulu.
+
+[Cakrawala] 14:31:39
+Kalau absen juga lewat dari jam ini udah nggak bisa lagi balikpapan termasuknya manual.
+
+[Cakrawala] 14:31:49
+Yang yang kelas kedua ini belum absen masih dulu ya. Habis ini.
+
+[Cakrawala] 14:32:00
+Angka empat biasa, dari mana.
+
+[Cakrawala] 14:32:04
+Simak berikut ini sekarang kita ngitungnya ini m satu.
+
+[Cakrawala] 14:32:12
+Hai, ini. Ketika kita ngitung m nol.
+
+[Cakrawala] 14:32:16
+Itu yang ujung bracket sini delapan belas dikurangi. Empat makanya empat belas nah, sekarang kita hitung m satu m satu itu dari delapan belas tujuh tujuh.
+
+[Cakrawala] 14:32:34
+Jadi bukan empat belas lagi jadi makin lama makin kecil bracketnya.
+
+[Cakrawala] 14:32:47
+Makanya ditulis lihat pelan pelan kayak gitu. Jadi jelas itu darimana sih angkanya?
+
+[Cakrawala] 14:33:03
+Selamat malam.
+
+[Cakrawala] 14:33:12
+Hai heeh.
+
+[Cakrawala] 14:33:16
+Pasti di belakang pak karena lima koma lima coba dilanjutin ada yang aneh nggak di situ.
+
+[Cakrawala] 14:34:03
+Kemudian begitu gimana menurut menurut saya ada yang aneh kalau ada yang aneh Aneh.
+
+[Cakrawala] 14:34:15
+Sekarang video yang mulai berubah kan? Hasilnya itu lima koma. Lima sedangkan ini kan tujuh harusnya itu di atas tujuh sih pak lebih dekat tema betul.
+
+[Cakrawala] 14:34:37
+Akhirnya sudah betul. Nah, sekarang gimana kita bisa mendapatkan nilai itu itu sih pertanyaannya apakah ada di sini yang salah apakah ada yang disini?
+
+[Cakrawala] 14:34:47
+Yang kurang.
+
+[Cakrawala] 14:34:54
+Ini kita ke akhir aja.
+
+[Cakrawala] 14:34:57
+Ini ke sini berarti kan sebelas kan sebelas sebelas bagi dua tadi lima koma lima berarti kan make sense ya dari sini ditambah dari sini lima koma lima dong.
+
+[Cakrawala] 14:35:31
+Berarti ada something yang missing di di awal ini ada yang missing di sini.
+
+[Cakrawala] 14:35:41
+Mungkin misalnya aku nggak ngelihatin teks nih. Berarti ada yang missing di sini dimana ketika kita mulai terasi.
+
+[Cakrawala] 14:35:49
+Kedua ih. Kok kok gitu.
+
+[Cakrawala] 14:35:56
+Lebih make sense kalau misalkan di sini, kita butuh wajib aja nggak usah level murah dulu, harusnya kan di sini si ininya nih.
+
+[Cakrawala] 14:36:05
+Ini ditambah.
+
+[Cakrawala] 14:36:10
+Ini kan si lima koma lima makanya dia akan geser ke dua belas koma. Lima udah sekarang kita bingung nih dua belas koma lima nih mas.
+
+[Cakrawala] 14:36:24
+Hahaha. Kamu capek kita kita pakai pakaian aja L Let say. Di sini dua belas koma.
+
+[Cakrawala] 14:36:28
+Lima oke disini berarti M, satu.
+
+[Cakrawala] 14:36:32
+M satu dia dua belas koma. Lima. Nah, lanjut lanjut berarti di sini ada something missing.
+
+[Cakrawala] 14:36:42
+Makanya kalau kamu merasa ada samping yang nggak logis nah kok di sini aku jadi mundur nah itu kita coba kritisin bareng di sini harusnya di samping ini di form mulai Aqua di awal.
+
+[Cakrawala] 14:36:56
+Hai, jangan dibayarkan dulu dong ditentukan dulu apa namanya kita sudah tahu m satu lanjutin proses ini nih May jika ini maka ini kita mesti bantuin dulu entrfal yang mana enggak bisa dari visual aja nantikan kalau fungsinya fungsi beneran yang serem serem kan kamu nggak tahu bentuknya gimana nah, dari sini coba kamu tentuin dulu.
+
+[Cakrawala] 14:37:22
+Oke tentuin dulu f tujuh positif negatif. Hai f. Dua belas koma, lima positif atau negatif f delapan belas pasti akan negatif.
+
+[Cakrawala] 14:37:38
+Hai keh di tulisan dulu biar kita tahu prosesnya tujuh sini sini sini sini biar muat sini nah F tujuh.
+
+[Cakrawala] 14:37:50
+Oke dia hasilnya Positif Negatif.
+
+[Cakrawala] 14:37:56
+Kita klik klik cek yang.
+
+[Cakrawala] 14:38:11
+Hai ini bisnis ini. Nah dicek sini kan hasil lain.
+
+[Cakrawala] 14:38:35
+Di sini. Kamu nggak perlu nentuin nih. Kalau tingginya positif negatif.
+
+[Cakrawala] 14:38:41
+Sesimpel itu positif negatif kita.
+
+[Cakrawala] 14:38:45
+Langsung aja kayak gini nih persis positif. Oke, lanjut dua belas koma lima positif negatif.
+
+[Cakrawala] 14:39:03
+Tripod dua belas koma lima positif negatif.
+
+[Cakrawala] 14:39:13
+Tapi.
+
+[Cakrawala] 14:39:18
+Yang kamu bingungin apa menentukan postif dan negatifnyaangkanya sih.
+
+[Cakrawala] 14:39:27
+Kan ini kan setuju tadi hasil dari F. Delapan belas di orang tujuh itu. Ini persamaan sederhana aja misalkan kamu Masukin X tujuh mudah Mudahan.
+
+[Cakrawala] 14:39:40
+Pasti hasilnya itu yang ini positif kalau kamu masukin dia yang apa namanya ini yang apa dua belas koma lima udah pasti hasilnya itu yang ini udah pasti negatif di sini kita sengaja nentuin positif negatifnya itu by grafik karena kita dari tadi pakai grafik kita mau pakai pendekatan nilaifik dulu itu nanti ketika udah mulai dihitung baru kamu udah mulai ngitung kayak
+
+[Cakrawala] 14:40:03
+yang tadi yang kamu mulai ngitung tadi. Nah sekarang Hai, itu dari visual aja ini dua belas koma lima disini positif negatif lihat suruh ngantang kan baik visual saja nggak usah ngitung.
+
+[Cakrawala] 14:40:19
+F delapan belas positif dan negatif negatif dari rule yang tadi kita kasih di sini. Jadi menurut kamu intervalnya itu yang mana interval barunya?
+
+[Cakrawala] 14:40:34
+Dekat jendelanya di sini? Jawabannya interval itu dijawab di sini kayak gini nih apa koma apa yang tebal rangkuman barunya itu kita buka di mana?
+
+[Cakrawala] 14:40:50
+Lihat dari visual dulu aja lihat dari visual kan sama.
+
+[Cakrawala] 14:40:58
+Dua belas delapan dari mana angka delapan koma. Tujuh itu jujur ditulis tujuh.
+
+[Cakrawala] 14:41:09
+Dua belas koma. Lima oke, nah, kita mesti cek kenapa ini benar nah, balik lagi ke sini ini kan a.
+
+[Cakrawala] 14:41:19
+Mk lebih kecil dari nol apa nggak?
+
+[Cakrawala] 14:41:24
+Senggol dong kan positif kalian negatif artinya udah ini interval yang benar.
+
+[Cakrawala] 14:41:33
+Dan lebih berpikir gini. Jadi sekarang itu dia begini intervalnya.
+
+[Cakrawala] 14:41:46
+Oke, jadi dia di sini dua belas koma. Lima oke, silahkan duduk satu lagi satu kali operasi lagi m.
+
+[Cakrawala] 14:41:55
+Dua.
+
+[Cakrawala] 14:41:57
+Hai ada yang mau M, dua M, dua nih, M, dua.
+
+[Cakrawala] 14:42:07
+Ada yang mau ada yang menyeber tidurmu mati dari pagi setelah bersih saya durasi.
+
+[Cakrawala] 14:42:29
+Jadi jangan lupa.
+
+[Cakrawala] 14:42:36
+Ini nanti saya cek saya saya nggak nggak mau lihat formula juga dan lagi malas napalin kita cek ini salahnya dimana? Nilai Amin.
+
+[Cakrawala] 14:42:47
+Padahal seingat saya Hai, tapi kalau memang itu nggak make sense udah sekarang kita cek apa yang salah.
+
+[Cakrawala] 14:42:54
+Coba kamu lihat dulu historynya sekarang kita hubungannya ada di tujuh dua belas koma lima A nya si M nol B nya si M satu.
+
+[Cakrawala] 14:43:12
+Hai hehehe.
+
+[Cakrawala] 14:43:34
+Minimalnya satu aja pak.
+
+[Cakrawala] 14:43:44
+Sembilan koma dua lima.
+
+[Cakrawala] 14:43:48
+Kira kira disinilah belum belum detail saya di sini. Oke Hai, nih, terus ini karena terakhir aku merahin aja m dua sembilan koma dua lima buat lagi intervalnya tentu yang terbang.
+
+[Cakrawala] 14:44:09
+Dua puluh lima orang.
+
+[Cakrawala] 14:44:15
+Di mana ciblek ini ini nafal baru.
+
+[Cakrawala] 14:44:27
+Saya melakukan mengecek formula.
+
+[Cakrawala] 14:45:14
+Teknologi itu.
+
+[Cakrawala] 14:45:28
+Assalamualaikum.
+
+[Cakrawala] 14:45:35
+Kalau by visual baik isuel. Benar masuk. Oke, oke, jadi kita oke, aku catat dulu tadi namanya jangan lupa.
+
+[Cakrawala] 14:46:10
+Anak anaknya sudah dua kali bukan sih ini yang ketiga.
+
+[Cakrawala] 14:46:15
+Yang kedua ini udah beda. Pertemuan.
+
+[Cakrawala] 14:46:23
+Jadi adiktor sip oke sip oke.
+
+[Cakrawala] 14:46:34
+Nanti untuk yang M aku bakalan cek lagi di literatur nanti notion yang nanti materi materi ini di Notion itu nanti saya bagiin dan saya pastiin dulu ini benar apa enggak yang apa namanya yang ini am itu jadi intinya dalam metode by section.
+
+[Cakrawala] 14:47:01
+Ini kita udah coba secara visual banget ini adalah metode bagi bagi bagi oke kiri kanan makanya pertama yang paling penting adalah natural dulu kalau intervalnya udah benar udah tinggal di Pap aja terus di papa terus terus terus terus terus kan malah ketemu mau ketemu pasti mau ketemu gitu nah dan metode ini adalah salah satu metode yang tadi saya bilang tidak efisien kenapa efisiennya karena salah satunya kita kita
+
+[Cakrawala] 14:47:28
+mau berbagi bagi bagi kalau misalnya interval kita terlalu lebar. Dia ini menjadi dua bagi dua dua ribu tujuh belas itu nah, nanti ditugas yang pertama itu itu kalian bisa melihat waktu komputasinya jadi kalau di visual studio kalau enggak salah habis ngeplay itu kelihatan waktu komputasinya.
+
+[Cakrawala] 14:47:47
+Berapa kita naik itu bisa dicek berapa lama sih? Nah, nanti dengan soal yang sama itu minggu depan soalnya sama gitu.
+
+[Cakrawala] 14:47:57
+Tapi kita pakai metode yang beda nanti dilihat waktu komputasi berapa lama gitu jadi metode by section adalah salah satu metode numerik dimana kita bisa menyelesaikan akar persamaan dengan cara bagi bagi bagi bagi Www itu itulah tentu saja ada error itu tadi er error dan persamaan errornya itu saya agak lupa ingat kalau ga salah.
+
+[Cakrawala] 14:48:28
+Eco tuh sama error tuh apa b min a.
+
+[Cakrawala] 14:48:33
+Dua banget N kalau nggak salah nanti dicek lilit literatur deh. Hai tapi etnis kalian harusnya udah dapat biaya ibu ini adalah bagi aja tuh.
+
+[Cakrawala] 14:48:44
+Boleh terus. Gitu. Nah seiring kalian ngebagi dua itu errornya makin lama makin kecil, makin lama makin kecil gitu.
+
+[Cakrawala] 14:48:50
+Makanya di sini ini saya lupa ini ini jangan di Tam menteng ini maka di sini ada dua pangkat N itu adalah jumlah literasi.
+
+[Cakrawala] 14:48:59
+Intinya semakin banyak kalian netrasi kecil kecil itu aja untuk kuliah pada hari ini. Uh. Uh.
+

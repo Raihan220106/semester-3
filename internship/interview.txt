@@ -1,0 +1,13 @@
+“Perkenalkan, nama saya Raihan Muhammad Riswandi. Saya saat ini berkuliah di Universitas Cakrawala Fakultas Ilmu Komputer, Program Studi Data Science. Selain fokus pada bidang data, saya juga mengembangkan karier sebagai seorang Frontend Developer.
+
+Saya memiliki pengalaman membangun berbagai aplikasi web menggunakan tools React JS, Next.js, TypeScript, Tailwind CSS, javascript,my sql database. Saya terbiasa menghubungkan aplikasi frontend dengan database,dan mebuat tampilan depan UI/UX menggunakan tools Figma.
+
+Salah satu project yang saya bangun adalah profile company Klinik MedicaPro, sebuah aplikasi berbasis React JS dan TypeScript dengan database yang terhubung untuk mengelola data pasien dan administrasi klinik. Dalam proyek ini saya mengerjakan struktur UI/UX, integrasi data, routing, hingga memastikan aplikasi berjalan responsif dan mudah digunakan.
+
+Selain itu, saya juga membangun beberapa project lain seperti Dashboard TugasKU (untuk memenajamen tugas kuliah), Teman AI (asisten AI berbasis React + API), PingShop (mini e-commerce), Urbansole.id (landing page responsive), dan platform kelas online Edukelas.
+
+Saya terbiasa bekerja 5 hari kerja, adaptif dengan sistem online, dan siap berkomitmen penuh waktu bila diperlukan. Dream job saya adalah menjadi Frontend Developer yang mampu membangun UI/UX yang cepat, bersih, dan fungsional.
+
+Motivasi saya mendaftar adalah ingin memperdalam pengalaman teknis, belajar dari tim yang profesional, serta memberikan kontribusi nyata melalui skill yang saya miliki. Kelebihan saya adalah mampu berpikir kreatif, cepat beradaptasi, dan senang mempelajari teknologi baru. Kekurangan saya adalah terus mengembangkan manajemen waktu, namun saya selalu memastikan pekerjaan selesai tepat waktu.
+
+Dengan pengalaman project dan kemampuan teknis yang saya miliki, saya yakin dapat memberikan kontribusi positif bagi tim. Terima kasih atas waktunya.”
