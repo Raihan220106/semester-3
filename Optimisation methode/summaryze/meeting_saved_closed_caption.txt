@@ -1,0 +1,198 @@
+[Cakrawala] 09:23:20
+Hai Hai Hai nanti siapa nih Ahmad Fauzan sesi kedua, belum tercatat nanti ingetin Miss lagi Hai ceh kita mulai ke optimasi non linier.
+
+[007_Ahmad Fauzan_SD] 09:23:35
+Siap Siap Miss?
+
+[Cakrawala] 09:23:41
+Nah jadi kemarin kan yang linier udah sekarang optimasi non linier sama nanti kita coba masuk ke python kalian pada bawa laptop di bawah.
+
+[007_Ahmad Fauzan_SD] 09:23:55
+Sore.
+
+[Cakrawala] 09:23:57
+Hai, apa udah udah berdua aja sama temen saya dulu. Oke, jadi nanti kita masuk ke pemrograman python biasanya kita pakai google collab aja sih yang lain pada udah comment belum ada yang bener bener belum pernah pegang.
+
+[Cakrawala] 09:24:17
+Python udah berarti berarti Miss nggak usah ngajarin dari variabel dan lain lain.
+
+[Cakrawala] 09:24:23
+Nggak usah okay fungsi udah oke, bentar.
+
+[Cakrawala] 09:24:35
+Hai nah Chris, sekarang kita masuk ke Non Linear Optimisation. Sebenarnya apa sih Non Linear Optimisation?
+
+[Cakrawala] 09:24:46
+Kalau kemarin kan kita belajar linier. Kita tahu bahwa constrainnya dan objektif function.
+
+[Cakrawala] 09:24:54
+Semuanya liniiat kalau Non Linear berarti kebalikannya. Semuanya dia tidak linier nah nanti ada nih ciri cirinya non liniar tuh seperti apa nah ini cara membedakan linear dan non linier kalau linier dia hubungan antar variabel keputusan dan hasil output bentuk garis lurus atau linear jadi setiap variabel
+
+[Cakrawala] 09:25:23
+berpangkat satu dan tidak dikalikan dengan variabel lain. Non linier dia itu tidak berbentuk garis lurus.
+
+[Cakrawala] 09:25:31
+Jadi gimana Miss kalau ga berbentuk garis lurus dia bisa kayak bentuknya kayak ada apa sih gunung lembah gunung lembah gunung lembah gunung Lembah.
+
+[Cakrawala] 09:25:43
+Gitu. Nah dia biasanya melibatkan pangkat lebih dari satu kayak eksponensial logam ritme akar atau perkalian antar variabel.
+
+[Cakrawala] 09:25:53
+Nah itu non linier. Nah makanya kalau kemarin masih ingat nggak kalau linier itu Miss bilang dia Confeks bentuknya dia cuman ada satu global minimal atau ada satu global maksimal kalau di non linier ini biasanya dia lebih dari apa dia dia nggak Honax gitu.
+
+[Cakrawala] 09:26:22
+Maksudnya gimana sih miss kemarin kan udah kita tahu bahwa konflik itu contohnya seperti ini gitu. Dan dia cuman ada satu doang solusi optimal di global minimanya kalau yang dia non linier dia bentuknya bisa begini, Hai gitu nanti di sini kan ada lokal minimal global minimal maksimal global maksimum coba nih misulang lagi sedikit ya nah jadi di sini ini kan ada
+
+[Cakrawala] 09:27:01
+beberapa bentuk lembah sama gunung. Nah, setiap gunung ini sebenarnya dia ini maksimalnya tapi dia itu lokal atau global kita harus zoom out ngeliatnya kalau ini berarti global karena dia yang paling hai tinggi global maksimal yang paling tinggi di antara semua yang lain.
+
+[Cakrawala] 09:27:28
+Kan? Nah kalau ini namanya lokal.
+
+[Cakrawala] 09:27:34
+Nah ini Global minimal nah kalau ini berarti lokal minimal gitu.
+
+[Cakrawala] 09:27:48
+Sorry kebalik ini salah salah ini global minimal ini lokal jadi kebalikannya kalau yang maksimal dia cari yang paling tinggi.
+
+[Cakrawala] 09:28:00
+Kalau minimal dia cari yang paling rendah diantar semua titik kemungkinan atau visible region Jeff.
+
+[Cakrawala] 09:28:20
+Nah terus kita bisa membedakan linear dan non linier dari pertama melihat persamaannya aja tadi kan kalau ada eksponensial kalau pangkatnya.
+
+[Cakrawala] 09:28:35
+Kalau ada eksponensial terus logitnik gitu nah itu biasanya dia non linear.
+
+[Cakrawala] 09:28:43
+Nah makanya disini non linear function dia X kuadrat tambah Xy tambah sinye tambah e pangkat X Hai.
+
+[Cakrawala] 09:28:53
+Gitu. Nah nanti cara penyelesaian yang non linier ini pasti lebih kompleks daripada yang linear ini biasanya nanti kita pakai nama nama pendekatannya itu gradien desain atau Newton nanti kita bahas.
+
+[Cakrawala] 09:29:12
+Tapi mungkin kalau yang sekarang kita coba yang paling sederhana dulu gitu di codingannya nanti mungkin minggu depan kita akan coba di yang lebih kompleks lagi yaitu gradient design biasanya sih lebih enaknya kalau kita mau pakai gradient desain atau mau pakai algoritma optimasi itu kita pakainya bener bener langsung pakai data set aja gitu biar kelihatan kita mengoptimalkan apa Hai.
+
+[Cakrawala] 09:29:48
+Ini membedakan linear dan non linier kalau ini derajat variabelnya limar itu pangkat satu non linear itu biasanya akar atau lebih dari pangkat satu tidak eksponensial dan lain lain gitu.
+
+[Cakrawala] 09:30:03
+Nah, interaksi antar variabelnya dia biasanya nggak ada kalau non linier biasanya ada perkalian x dan y jadi ada dua variabel di situ.
+
+[Cakrawala] 09:30:15
+Game makannya di sini. Tadi grafiknya bisa lengkung parabola ekspansial dan lain lain.
+
+[Cakrawala] 09:30:23
+Ok disini juga kita bisa lihat bahwa metode umumnya tadi sudah ceritain kalau non linier biasanya gradien bisa nonton huristik.
+
+[Cakrawala] 09:30:36
+Kenapa Miss lebih tekankan ke cerita non linier karena biasanya di dunia di data set yang beneran itu datanya semuanya non linier gitu banyakan kayaknya jarang gitu yang linear apalagi kalau kita ngomongin data data yang mau kita train pakai mesin learning pakai deep learning itu biasanya sih linear maksudnya interaksi antara independen dengan dependen
+
+[Cakrawala] 09:31:06
+variabelnya. Biasanya oke, lanjut ya.
+
+[Cakrawala] 09:31:11
+Nah, ini ada ciri dan tantangan non linier programming gitu kalau fungsional Linear itu kan tadi udah expansial logaritme kuadrat kita bisa memiliki banyak titik lokal minimum atau lokal maksimum tadi bisa diceritain dia dia bisa ada beberapa lokal minimum, ada bisa ada beberapa lokal minimum terus tidak semua solusi
+
+[Cakrawala] 09:31:37
+mudah dihitung secara analitik. Jadi mungkin.
+
+[Cakrawala] 09:31:45
+Miss mau ngajarin cara perhitungan Gradien Desain by hand tapi takutnya apa waktunya nggak cukup gitu.
+
+[Cakrawala] 09:31:56
+Tapi tapi nanti kita coba aja kalau kepusingan bilang Miss menyerah gitu. Nanti kita nggak jadi pakai itu buat diujiannya gitu.
+
+[Cakrawala] 09:32:11
+Kalau Miss sukanya nyesuain sama anak anaknya aja sih soalnya kan waktu kita juga terbatas n nak.
+
+[Cakrawala] 09:32:13
+Ya nah nanti tuh. Biasanya kalau kita udah ngomongin gradien desain itu kita pakainya turunan lagi apalagi kalau kita ngomongin gradien desain yang beneran yang biasanya dipakai di artificial Neural network di deep learning pakainya turunan parsial ada yang pernah tahu turunan dua variabel itu apa lumayan seru sih lumayan challenge gitu financer kalau
+
+[Cakrawala] 09:32:51
+ujiannya pakai itu kayaknya nyontek ciptik juga pusing jadi gitu. Tapi tapi nanti mungkin kita coba sedikit aja sedikit sedikit aja nanti kalau nggak minggu depan habis istirahat lah.
+
+[Cakrawala] 09:33:09
+Nah, terus tapi kita lihat dulu ini modingnya butuh waktu lama nggak kalau loadingnya butuh waktu lama berarti minggu depan nak ya oke, btw, kita hari ini selesai istirahat jam dua belas masuk lagi jam satu selesai jam dua nggak apa apa ya?
+
+[Cakrawala] 09:33:32
+Soalnya soalnya miss mau ada keluar kota sebentar gitu.
+
+[Cakrawala] 09:33:48
+Apa apa ke toilet? Nah terus ini memerlukan nanti nanti utangs sama uasnya juga kita bisa discuss kamu maunya bagaimana ya nanti miss coba sesuaikan aja kamu nyamannya seperti apa misalnya mau apa nak?
+
+[Cakrawala] 09:34:08
+Oke guys, kebetulan ada obrolan sama keluarga hahaha. Ada yang butuhnya ujiannya itu bisa online karena kan cuma tiga mata kuliah ini di semester terakhir rencana itu di kampung sampai jadwal Januari pertengahan kalau misalnya itu mau ujiannya semua di kampung jadi kalau saya ingatkan pembelian online di numpung apa itulah memungkinkan memungkinkan yang lain tidak apa apa jadi online
+
+[Cakrawala] 09:34:47
+juga biar temennya bisa ini udah nggak papa kita ujiannya online aja Hai semuanya berarti Uas juga.
+
+[Cakrawala] 09:34:59
+Pikiran gua sih Uas kamu maunya boleh boleh udah udah luas ya hai nanti atau uasnya mau Project project kelompok bikin bikin video online gitu ntar dikirim ke miss mau kayak gitu.
+
+[Cakrawala] 09:35:22
+Atau soal enakan. Gimana?
+
+[Cakrawala] 09:35:26
+Jangan video video video tuh kayak gimana tugas cuma video kamu Present aja ceritain Project kamu.
+
+[Cakrawala] 09:35:37
+Untuk Rt. Bisa kamu diskusiin nanti mau miskin soal kalau yang kemarin kelas numerical method sama miss diskusi soal tuh kayak begitu enak apa enggak atau mendingan project kita bikin habis itu nanti kamu present present direkam pakai zoom aja tapi kelompok abis itu nanti di submit enakan mana gitu Hai coba di discuss dulu nanti mungkin hasilnya miss tunggu
+
+[Cakrawala] 09:36:13
+hari ini nanti biar soalnya kalau suka ditanya sama apa pokoknya ada yang lainnya lah miss tidak tahu juga itu siapa yang wain ada yang nanya mas ujiannya bagaimana jadi jadi harus didesain game hai tadi tidak semua solusi mudah dihitung secara analitik, analitik, itu baihan nanti kalau kamu iseng gitu mau coba
+
+[Cakrawala] 09:36:51
+melihathhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhm kalau masih ada
+
+[Cakrawala] 09:36:59
+minggu minggu depan coba mencari nah, ini memerlukan pendekatan iteratif itu apa sih iratif itu berulang ulang?
+
+[Cakrawala] 09:37:11
+Jadi ini mungkin mengulang lagi sedikit tidak untuk yang kelas numerical method jangan bosen karena ada temen temen yang baru misalnya nih kita mau prediksi misalnya aja saham yang paling common gitu kita kita mau prediksi saham hasil predicted value kita kasih nama yehad actual value nya kita kasih way aja biasa biasa nggak pakai topi nah
+
+[Cakrawala] 09:37:42
+misalnya kita awalnya disini harganya Rp sembilan nol sembilan ribu seratus.
+
+[Cakrawala] 09:37:56
+Nah, kalau kita mau prediksi besoknya itu harusnya di sininya berapa dan sembilan ribu empat ratus kan?
+
+[Cakrawala] 09:38:05
+Nah, nanti akan ada yang dinamakan error error itu adalah selisih antara Xl value dan prediksi value, tapi nanti rumusnya nggak semudah dikurangin doang.
+
+[Cakrawala] 09:38:15
+Ada banyak rumus bisa pakai main absolut persontage error, main, absolut, error dan lain lain.
+
+[Cakrawala] 09:38:22
+Kalau yang di domerical method udah kenal namanya error absolut error relatif.
+
+[Cakrawala] 09:38:31
+Nah nah nanti maksudnya interaktif itu seperti apa jadi yang mau kita kurangin misalnya gini, kamu mau melakukan prediksi saham yang kamu mau nilai actual value sama prediksi value itu deket biar saham biar kamu bisa desain untuk beli saham itu bener gak benar benar kan jadi misalnya besok itu harganya sembilan ribu lima ratus at least kamu bisa prediksi dia itu sembilan ribu empat ratus
+
+[Cakrawala] 09:39:00
+lima puluh ngerti nggak maksud miss.
+
+[Cakrawala] 09:39:04
+Kalau nggak ngerti nggak apa apa kita ulang? Ada yang nggak ngerti nggak Hy ngerti kalah sama Miss jangan malu malu nak, ini yang baru kalau ngerti kita ulang mungkin bahasa Miss yang terlalu favalit yang online juga bisa langsung interupt aja kalau misalnya nanti misalnya kita mau prediksi seperti itu kita mau mengecilkan nilai error itu butuh optimasi butuh
+
+[Cakrawala] 09:39:43
+irasi namanya Perulangan pembelajaran. Jadi misalnya kalau ini kan gampang dia naiknya seratus seratus seratus kalau misalnya dia naiknya enggak seratus seratus seratus tapi ada fluktuasi misalnya hai misal ini miss ngasal aja nah di sini itu berapa kan nah kita harus melakukan pelatihan pakai algoritma.
+
+[Cakrawala] 09:40:10
+Nanti algoritma biasanya biasanya tergantung dari objektif. Sama karakteristik datanya misalnya kita pakai mesin learning.
+
+[Cakrawala] 09:40:18
+Nah, nanti dia misalnya bisa prediksi ini ceritanya kita partisi jadi data latih misalnya terus ini data uji kan ini yang mau kita tahu harganya.
+
+[Cakrawala] 09:40:29
+Berapa nah, nanti kalau di sininya harganya itu ceritanya Rp delapan ribu empat ratus ternyata dia delapan ribu enam ratus kan ada selisih dua ratus perak.
+
+[Cakrawala] 09:40:40
+Nah, kita mau menurunkannya itu pelan. Pelan pakai irasi namanya perulangan pembelajaran.
+
+[Cakrawala] 09:40:55
+Kalau ini. Misalnya ini kita mau nyentuh global minimal yang ada di sini kita melakukan perulangan pelan pelan jadi step size dari sini errornya kita turunin kecil kecil jadi nanti mungkin pelatihan pertama dia dapatnya delapan ribu empat ratus terus pelatihan kedua, dia empat ratus lima puluh berarti makin dekat dong
+
+[Cakrawala] 09:45:15
+Wangi. Bagi ikan bisa lagi
+
