@@ -1,0 +1,62 @@
+UAS Advanced Database
+
+Nama: Raihan Muhammad Riswandi
+NIM: 24110500001
+Kelas: Advanced Datbase System
+Judul Proyek: Doctor Recommendation & Feedback Analytics
+Modifikasi Individual: Fitur Laporan Statistik Dokter (Performance Report)
+
+1. Before (Sebelum Modifikasi)
+
+Sebelum modifikasi, sistem hanya memiliki view `doctor_stats` yang menampilkan data jumlah review dan rata-rata rating per dokter. 
+Belum ada analisis jumlah pasien, pendapatan dokter, atau kategori performa.
+ 
+
+
+Kode Sebelum Modifikasi:
+SELECT 
+    d.doctor_id,
+    d.doctor_name,
+    d.specialization,
+    f.rating,
+    f.feedback_text
+FROM doctors d
+LEFT JOIN feedbacks f ON d.doctor_id = f.doctor_id
+ORDER BY d.doctor_name;
+
+Penjelasan:
+Kode ini hanya menampilkan data mentah antara dokter dan feedback tanpa perhitungan statistik.
+2. After (Setelah Modifikasi)
+
+Setelah modifikasi, ditambahkan view baru bernama `doctor_performance_report` 
+yang menampilkan jumlah pasien unik, total pendapatan, rata-rata rating, 
+dan kategori performa dokter.
+ 
+
+
+
+Kode Setelah Modifikasi:
+CREATE OR REPLACE VIEW DoctorPerformanceReport AS
+SELECT 
+    d.doctor_id,
+    d.doctor_name,
+    d.specialization,
+    COUNT(f.feedback_id) AS total_feedbacks,
+    AVG(f.rating) AS average_rating,
+    COUNT(DISTINCT f.patient_id) AS total_patients
+FROM doctors d
+LEFT JOIN feedbacks f ON d.doctor_id = f.doctor_id
+GROUP BY d.doctor_id, d.doctor_name, d.specialization
+ORDER BY average_rating DESC;
+SELECT * FROM DoctorPerformanceReport;
+Penjelasan:
+Modifikasi ini menambahkan analisis statistik dokter dengan query agregasi (COUNT, AVG) untuk membantu manajemen mengevaluasi performa dokter.
+3. Penjelasan Modifikasi
+
+Modifikasi ini meningkatkan fungsi sistem dari sekadar aplikasi feedback menjadi sistem analitik performa dokter berbasis data.
+Dengan laporan statistik ini, pihak rumah sakit dapat menilai kinerja dokter, meningkatkan kualitas pelayanan, dan membuat keputusan berbasis data dengan lebih mudah.
+4. Kesimpulan
+
+Dengan adanya modifikasi ini, sistem Doctor Recommendation & Feedback Analytics kini memiliki fitur laporan statistik dokter yang lebih lengkap dan informatif. 
+Data seperti jumlah pasien, total pendapatan, dan rata-rata rating kini dapat digunakan untuk analisis kinerja dokter secara komprehensif.
+Modifikasi ini memperkaya fungsi analitis database dan meningkatkan nilai praktis sistem dalam mendukung pengambilan keputusan berbasis data.
